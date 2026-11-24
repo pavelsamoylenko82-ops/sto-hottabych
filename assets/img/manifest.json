@@ -1,0 +1,82 @@
+{
+  "boksy": [
+    {
+      "w": 480,
+      "h": 360,
+      "name": "boksy-480-689b13.webp"
+    },
+    {
+      "w": 960,
+      "h": 720,
+      "name": "boksy-960-8834a9.webp"
+    },
+    {
+      "w": 1200,
+      "h": 900,
+      "name": "boksy-1200-323f75.webp"
+    }
+  ],
+  "fasad": [
+    {
+      "w": 480,
+      "h": 360,
+      "name": "fasad-480-28defe.webp"
+    },
+    {
+      "w": 960,
+      "h": 720,
+      "name": "fasad-960-2989c1.webp"
+    },
+    {
+      "w": 1200,
+      "h": 900,
+      "name": "fasad-1200-eb2523.webp"
+    }
+  ],
+  "dvigatel": [
+    {
+      "w": 480,
+      "h": 360,
+      "name": "dvigatel-480-3021f0.webp"
+    },
+    {
+      "w": 960,
+      "h": 720,
+      "name": "dvigatel-960-c48ac8.webp"
+    },
+    {
+      "w": 1600,
+      "h": 1200,
+      "name": "dvigatel-1600-2eeae1.webp"
+    }
+  ],
+  "grm": [
+    {
+      "w": 480,
+      "h": 640,
+      "name": "grm-480-5d5941.webp"
+    },
+    {
+      "w": 960,
+      "h": 1280,
+      "name": "grm-960-7ae2be.webp"
+    },
+    {
+      "w": 1200,
+      "h": 1600,
+      "name": "grm-1200-53c17f.webp"
+    }
+  ],
+  "map": [
+    {
+      "w": 720,
+      "h": 456,
+      "name": "map-720-604bab.webp"
+    },
+    {
+      "w": 1200,
+      "h": 760,
+      "name": "map-1200-2840fc.webp"
+    }
+  ]
+}
